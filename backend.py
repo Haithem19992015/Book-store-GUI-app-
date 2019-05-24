@@ -43,14 +43,12 @@ def update(id,title,author,year,isbn):
     conn.commit()
     conn.close()
     
-    
-    
-    
+   
 connect()
-#insert('But for me the show of this year 2019 is Babylon Berlin I will never forget the beautiful moments when I was watching this epic series yes liv lisa fries   ','cristiano ronaldo dos santos aveiro the game is over here, here we go  of the castles shine bright like a diamond in the sky this is what rihana and bryan cranston said in his sweet 60 birthday',2019,644234337)
+#insert()
 #delete()
-#update(9,'Kangarooo','Steve Harvey',2013,19992016)
-#print(view())
-#print(search( 'principles', 'Ray Dalio', 2016, 13213314))
+#update()
+#view()
+#search()
 
 
